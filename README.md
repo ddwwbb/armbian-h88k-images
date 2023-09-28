@@ -12,3 +12,4 @@ Current device tree support status:
  - [x] USB
 
 Download: https://github.com/amazingfate/armbian-h88k-images/releases/latest
+账号密码 su 1234 
